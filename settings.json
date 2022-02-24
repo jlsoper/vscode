@@ -8,7 +8,6 @@
 
 //    "git.enabled": false,
 //    "git.path": "C:\\PROGRA~1\\Git\\bin\\git.exe",
-//    "java.home": "C:\\java\\jdk8",
 //    "python.pythonPath": "C:\\Users\\js16944\\Apps\\Anaconda3",
 
 {
@@ -38,14 +37,6 @@
 
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
-
-    "java.configuration.checkProjectSettingsExclusions": false,
-    "java.configuration.updateBuildConfiguration": "disabled",
-    "java.import.gradle.enabled": false,
-    "java.import.gradle.wrapper.enabled": false,
-    "java.project.importOnFirstTimeStartup": "automatic",
-    "java.requirements.JDK11Warning": false,
-    "java.semanticHighlighting.enabled": true,
 
     "scm.diffDecorations": "none",
 

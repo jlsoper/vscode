@@ -40,8 +40,7 @@
 
     "scm.diffDecorations": "none",
 
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off",
 
     "terminal.integrated.shell.linux": "/bin/bash",
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",

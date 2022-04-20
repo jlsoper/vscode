@@ -22,10 +22,10 @@
     "editor.dragAndDrop": false,
     "editor.folding": false,
     "editor.fontSize": 14,
+    "editor.guides.indentation": false,
     "editor.insertSpaces": true,
     "editor.lineNumbers": "off",
     "editor.minimap.enabled": false,
-    "editor.renderIndentGuides": false,
     "editor.renderLineHighlight": "all",
     "editor.renderWhitespace": "none",
     "editor.suggestSelection": "first",
@@ -45,11 +45,11 @@
     "terminal.integrated.defaultProfile.linux": "bash",
 
     "update.mode": "manual",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "window.title": "${activeEditorLong}",
 
 
     "workbench.colorCustomizations": { "editor.lineHighlightBackground": "#333333" },
+    "workbench.colorTheme": "Default Dark+",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.editor.highlightModifiedTabs": true,

@@ -45,6 +45,7 @@
     "telemetry.telemetryLevel": "off",
 
     "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
 
     "update.mode": "manual",
     "window.title": "${activeEditorLong}",

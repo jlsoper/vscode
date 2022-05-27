@@ -40,6 +40,8 @@
 
     "scm.diffDecorations": "none",
 
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.startupPrompt": "never",
     "telemetry.telemetryLevel": "off",
 
     "terminal.integrated.defaultProfile.linux": "bash",

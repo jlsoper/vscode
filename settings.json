@@ -6,6 +6,8 @@
 // Workspace settings override User settings!
 
 
+//    "editor.fontSize": 14,  # Linux
+
 //    "git.enabled": false,
 //    "git.path": "C:\\PROGRA~1\\Git\\bin\\git.exe",
 //    "python.pythonPath": "C:\\Users\\js16944\\Apps\\Anaconda3",
@@ -21,7 +23,7 @@
     "editor.detectIndentation": false,
     "editor.dragAndDrop": false,
     "editor.folding": false,
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "editor.guides.indentation": false,
     "editor.insertSpaces": true,
     "editor.lineNumbers": "off",

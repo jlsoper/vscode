@@ -7,7 +7,6 @@
 
 
 //    "editor.fontSize": 14,  # Linux
-//    "editor.fontSize": 12,  # OSX
 
 //    "git.enabled": false,
 //    "git.path": "C:\\PROGRA~1\\Git\\bin\\git.exe",
@@ -24,7 +23,7 @@
     "editor.detectIndentation": false,
     "editor.dragAndDrop": false,
     "editor.folding": false,
-    "editor.fontSize": 16,
+    "editor.fontSize": 14,
     "editor.guides.indentation": false,
     "editor.insertSpaces": true,
     "editor.lineNumbers": "off",

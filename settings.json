@@ -47,6 +47,14 @@
     "telemetry.telemetryLevel": "off",
 
     "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.profiles.linux":{
+      "bash": {
+        "path": "bash",
+        "icon": "terminal-bash",
+        "args": ["--login"]
+      }
+    },
+
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
 
     "update.mode": "manual",

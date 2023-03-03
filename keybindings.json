@@ -1,6 +1,8 @@
 //    Keyboard shortcuts for debugging
 //    F5, F6, F7, F8
 //
+//    OSX - cmd key
+//
 //    F10: toggle whitespace characters
 //    F11: replace tabs with spaces (vim)
 
@@ -132,6 +134,25 @@
   },
   {
     "key": "ctrl+-",
+    "command": "-workbench.action.zoomOut"
+  },
+
+
+
+  {
+    "key": "shift+cmd+=",
+    "command": "-workbench.action.zoomIn"
+  },
+  {
+    "key": "cmd+=",
+    "command": "-workbench.action.zoomIn"
+  },
+  {
+    "key": "shift+cmd+-",
+    "command": "-workbench.action.zoomOut"
+  },
+  {
+    "key": "cmd+-",
     "command": "-workbench.action.zoomOut"
   },
 

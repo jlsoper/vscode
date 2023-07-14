@@ -1,0 +1,36 @@
+{
+  // Node.js
+  // Linux: /opt/nodejs/bin/node
+  // OSX:   /usr/local/bin/node
+
+  // id          - The corresponding variable name for which these attributes are used.
+  // type        - The type of user input widget.  promptString (for a string InputBox) , pickString (for a string Quick Pick)
+  // description - Descriptive text shown to the user.
+  // default     - The default value to use if the user just presses Enter.
+
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Node [launch]",
+      "type": "node",
+      "request": "launch",
+
+      "runtimeExecutable": "/opt/nodejs/bin/node",
+
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/${input:pickProgram}"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "pickProgram",
+      "type": "pickString",
+      "description": "select file",
+
+      "options": ["app.js", "console-msg.js"],
+      "default": "app.js"
+    }
+  ]
+}

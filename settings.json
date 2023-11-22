@@ -54,6 +54,8 @@
     },
 
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "bold",
 
     "update.mode": "manual",
     "window.title": "${activeEditorLong}",

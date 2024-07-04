@@ -1,0 +1,13 @@
+#  ~/.local/share/applications
+
+
+[Desktop Entry]
+Name=VSCode
+Comment=
+Exec=sh -c "flatpak run com.vscodium.codium  --extensions-dir \$HOME/.config/vscode/extensions --user-data-dir \$HOME/.config/vscode/user-data"
+Icon=com.vscodium.codium
+Type=Application
+Categories=Development
+Terminal=false
+StartupNotify=false
+

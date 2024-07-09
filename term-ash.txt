@@ -1,0 +1,10 @@
+    "terminal.integrated.defaultProfile.linux": "sh",
+    "terminal.integrated.profiles.linux":{
+      "sh": {
+        "path": "sh",
+        "icon": "terminal-linux",
+        "args": ["--login"]
+      }
+    }
+}
+

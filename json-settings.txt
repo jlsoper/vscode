@@ -44,22 +44,8 @@
     "security.workspace.trust.startupPrompt": "never",
     "telemetry.telemetryLevel": "off",
 
-    "terminal.integrated.defaultProfile.linux": "bash",
-    "terminal.integrated.profiles.linux":{
-      "bash": {
-        "path": "bash",
-        "icon": "terminal-bash",
-        "args": ["--login"]
-      }
-    },
-
-    "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "terminal.integrated.fontSize": 16,
-    "terminal.integrated.fontWeight": "bold",
-
     "update.mode": "manual",
     "window.title": "${activeEditorLong}",
-
 
     "workbench.colorCustomizations": { "editor.lineHighlightBackground": "#333333" },
     "workbench.colorTheme": "Default Dark+",
@@ -68,8 +54,11 @@
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.list.openMode": "doubleClick",
     "workbench.settings.editor": "json",
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
 
 
-}
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "bold",
+
 

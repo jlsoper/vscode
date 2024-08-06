@@ -1,0 +1,33 @@
+//    vscode.dev
+//
+//
+//  key bindings  [ vscodevim ]
+//
+//
+
+[
+  {
+    "key": "f2",
+    "command": "workbench.action.files.save"
+  },
+  {
+    "key": "ctrl+s",
+    "command": "-workbench.action.files.save"
+  },
+
+  {
+    "key": "f4",
+    "command": "workbench.action.closeActiveEditor"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "-workbench.action.closeActiveEditor"
+  },
+
+  {
+    "key": "f5",
+    "command": "editor.action.toggleRenderWhitespace"
+  }
+
+]
+

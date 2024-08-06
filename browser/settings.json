@@ -1,0 +1,42 @@
+//    vscode.dev
+//
+//
+//  "vim.vimrc.enable": true,
+//  "vim.vimrc.path": ".vimrc",
+//
+//
+
+{
+  "breadcrumbs.enabled": false,
+  "breadcrumbs.filePath": "off",
+
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  "editor.dragAndDrop": false,
+  "editor.folding": false,
+  "editor.guides.indentation": false,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.tabSize": 2,
+
+  "files.autoSave": "off",
+
+  "remoteHub.commitDirectlyWarning": "off",
+
+  "scm.diffDecorations": "overview",
+
+  "security.workspace.trust.enabled": false,
+
+  "telemetry.telemetryLevel": "off",
+
+  "window.menuBarVisibility": "classic",
+  "window.title": "${activeEditorLong}",
+
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.list.openMode": "doubleClick",
+  "workbench.settings.editor": "json",
+  "workbench.startupEditor": "none"
+
+
+}
+

@@ -3,5 +3,5 @@
 
 
 # ignore these files
-settings.json
+/settings.json
 

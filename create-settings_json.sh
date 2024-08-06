@@ -9,11 +9,11 @@ echo -n "Select which terminal type, to append: (1 = bash, 2 = ash): " ; read ch
 case $choice in
 
   1)
-    cat json-settings.txt term-bash.txt > $USER_VSC/settings.json
+    cat json-settings.txt term-bash.txt > settings.json
     ;;
 
   2)
-    cat json-settings.txt term-ash.txt > $USER_VSC/settings.json
+    cat json-settings.txt term-ash.txt > settings.json
     ;;
 
   *)

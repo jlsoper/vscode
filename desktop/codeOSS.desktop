@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=VSCode
+Comment=
+Exec=sh -c "/usr/lib/code-oss/bin/code-oss --extensions-dir \$HOME/.config/vscode/extensions --user-data-dir \$HOME/.config/vscode/user-data"
+Icon=code-oss
+Type=Application
+Categories=Development
+StartupNotify=false
+

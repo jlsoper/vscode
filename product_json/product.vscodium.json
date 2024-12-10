@@ -1,0 +1,11 @@
+{
+  "nameShort": "VSCodium",
+  "nameLong":  "VSCodium",
+
+  "extensionsGallery": {
+    "serviceUrl": "https://open-vsx.org/vscode/gallery",
+    "cacheUrl":   "",
+    "itemUrl":    "https://open-vsx.org/vscode/item"
+  }
+}
+

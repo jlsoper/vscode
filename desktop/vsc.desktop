@@ -5,7 +5,7 @@
 [Desktop Entry]
 Name=VSCode
 Comment=
-Exec=sh -c "/opt/VSCode/bin/code  --extensions-dir \$HOME/.config/vscode/extensions --user-data-dir \$HOME/.config/vscode/user-data"
+Exec=sh -c "/opt/VSCode/bin/codium  --extensions-dir \$HOME/.config/vscode/extensions --user-data-dir \$HOME/.config/vscode/user-data"
 Icon=/opt/VSCode/resources/app/resources/linux/code.png
 Type=Application
 Categories=Development

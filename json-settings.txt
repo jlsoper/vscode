@@ -46,6 +46,7 @@
 
     "update.mode": "manual",
     "window.title": "${activeEditorLong}",
+    "window.titleBarStyle": "native",
 
     "workbench.colorCustomizations": { "editor.lineHighlightBackground": "#333333" },
     "workbench.colorTheme": "Default Dark+",

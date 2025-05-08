@@ -38,8 +38,6 @@
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
 
-    "go.goroot": "/opt/go",
-
     "scm.diffDecorations": "none",
 
     "security.workspace.trust.enabled": false,

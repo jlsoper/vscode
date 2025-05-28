@@ -33,6 +33,7 @@
   "window.title": "${activeEditorLong}",
 
   "workbench.colorTheme": "Default Dark+",
+  "workbench.editor.empty.hint": "hidden",
   "workbench.list.openMode": "doubleClick",
   "workbench.settings.editor": "json",
   "workbench.startupEditor": "none"
